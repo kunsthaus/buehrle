@@ -1,8 +1,16 @@
-# buehrle
-
+# Visualisierung der Sammlung Emil Bührle
+# 
 
 # Licence
-   
-[CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
-
+   [![License]([https://img.shields.io/badge/license-MIT-blue.svg](https://creativecommons.org/licenses/by-nc-sa/4.0/))](LICENSE)
+# CC BY-NC-SA 4.0 DEED
 Attribution-NonCommercial-ShareAlike 4.0 International
+
+
+# PROJEKT
+Der Waffenindustrielle Emil Bührle (1890-1956) baut zwischen 1936 und 1956 eine grosse Kunstsammlung auf. Sie umfasst bei seinem Tod 633 Werke. Die Sammlung reicht von mittelalterlichen Skulpturen über niederländische und italienische Alte Meister bis zu Werken der Klassischen Moderne. Der Schwerpunkt der Sammlung liegt bei der Malerei der Impressionisten und Postimpressionisten.
+1960 überführen Bührles Erben einen Drittel der Kunstsammlung in die Stiftung Sammlung E.G. Bührle und machen sie in einer Villa an der Zollikerstrasse in Zürich der Öffentlichkeit zugänglich. Diese Werke sind seit 2021 als [Dauerleihgabe im Kunsthaus Zürich](https://www.kunsthaus.ch/sammlung/private-sammlungen/emil-buehrle/) zu sehen.
+Emil Bührle ist kein Sammler unter Vielen. Er ist «eine der umstrittensten Figuren des 20. Jahrhunderts in der Schweiz. Nicht nur sein steiler sozialer Aufstieg, sein Reichtum aus dem Waffenverkauf vor, während und nach dem Zweiten Weltkrieg sowie seine Verbindungen zu konservativen und rechtsextremen Kreisen, auch seine prestigeträchtige Kunstsammlung, die er zur Zeit des nationalsozialistischen Kunstraubs aufbaute und 1n den ersten Jahren des Kalten Kriegs ausweitete, sorgen seit 1940 immer wieder für Kontroversen.» ([Ueli Müller und Matthieu Leimgruber in Historisches Lexikon der Schweiz](https://hls-dhs-dss.ch/de/articles/027701/2023-05-22/), 2023--).
+
+Die vorliegenden Daten umfassen diverse Angaben zu den 633 Werken, die die Sammlung von Emil Bührle bei seinem Tod 1956 umfasste. 1960 überführt die Familie rund einen Drittel davon in die Stiftung Sammlung E. G. Bührle. 2023 umfasst dieser Bestand 203 Werke, die 2021 als Dauerleihgaben ins Kunsthaus Zürich gekommen sind. Der Rest der Sammlung verbleibt im Besitz der Erbengemeinschaft. Davon ist ein Teil veräussert worden. Die Daten umfassen Ankaufsjahr, Ankaufsort und den von Bührle bezahlten Kaufpreis sowie Epochen, und Fälschungen. Klassifiziert sind auch diejenigen Werke, die zwischen 1933 und 1945 von den Nationalsozialisten geraubt oder von jüdischen Sammlerinnen und Sammlern ausserhalb des NS-Machtbereichs verkauft worden sind. Auch die Namen der einzelnen Kunsthändler oder Sammlerinnen, die die Werke direkt an Emil Bührle verkauft hatten, sind vermerkt. Es ist auch klassifiziert, welche dieser Personen in der Zeit des Nationalsozialismus verfolgt worden sind und flüchten mussten.
+Die Daten basieren auf dem [Gesamtkatalog der Stiftung Sammlung E. G. Bührle](https://search.worldcat.org/de/title/1251780055) (Hirmer Verlag / SIK-ISEA 2021) sowie den Daten des Forschungsberichts [Kriegsgeschäfte, Kapital und Kunsthaus. Die Entstehung der Sammlung Emil Bührle im historischen Kontext](https://www.fsw.uzh.ch/de/personenaz/lehrstuhlleimgruber/Forschung/B%C3%BChrle.html) (Kölliken 2021), der unter der Leitung von Matthieu Leimgruber entstanden ist. Die gesamten Daten sind nachnutzbar und auf GitHub publiziert. Die Forschung ist nicht abgeschlossen. Wenn neue Erkenntnisse vorliegen, werden die Daten aktualisiert.
